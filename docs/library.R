@@ -14,3 +14,4 @@ if (!requireNamespace("icon", quietly = TRUE)) {
   stop("`icon` is required: install.packages('icon')")
 }
 
+#remotes::install_github("mitchelloharawild/icon")

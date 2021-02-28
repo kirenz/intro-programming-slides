@@ -1,17 +1,15 @@
 ---
-title: "Build your own universe"
-subtitle: "Scale high-quality research data provisioning with R packages"
+title: "Programming Languages for Data Science"
+subtitle: "R & SQL"
 author:
-  - Travis Gerke
-  - Garrick Aden-Buie
-institute: ".small[.blue-medium[Moffitt Cancer Center]]"
-date: 'August 28, 2020'
+  - Jan Kirenz
+institute: ".small[.blue-medium[HdM Stuttgart]]"
 output:
   xaringan::moon_reader:
     lib_dir: libs
     css:
-      - css/moffitt-xaringan.css
-      - css/moffitt-xaringan-extra.css
+      - css/programming-xaringan.css
+      - css/programming-xaringan-extra.css
       - css/talk-base.css
       - css/part-two.min.css
     includes:
@@ -26,7 +24,7 @@ output:
       countIncrementalSlides: true
 ---
 
-class: left middle blueprint2
+class: left middle blueprint2 no-logo
 
 ```{r setup, echo=FALSE}
 source("library.R")
