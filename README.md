@@ -5,7 +5,7 @@
 [agenda]: link
 [recording]: link
 
-Jan Kirenz  &#38; 
+Jan Kirenz  &#38;
 
 &#x1F4FA; [View slides][slides] (best viewed in Chrome)
 
